@@ -1,10 +1,6 @@
-## X-Beat | React eCommerce Web App
+# JIM | The Perfect GYM Store
 
-### [Demo Link](https://x-beat.netlify.app/) 🔗
-
-GYM Store eCommerce Website, built with **React JS**. <br/>
-State management using Context API.
-<br/>
+JIM | The Perfect GYM Store, a sophisticated eCommerce website developed using React JS. Experience seamless cart management, responsive design, dynamic filters, and more. Leveraging React Router and React Swiper, this platform offers enhanced navigation and interactive visuals. With SASS for stylish aesthetics, JIM ensures a feature-rich shopping experience. Explore the future of fitness shopping at JIM | The Perfect GYM Store.
 
 ## Features:
 
@@ -20,8 +16,6 @@ State management using Context API.
 - #### Multi Pages
 - #### ...and much more
 
-<br/>
-
 ## Technologies used:
 
 - #### **React JS**
@@ -29,13 +23,9 @@ State management using Context API.
 - #### **React Swiper**
 - #### **SASS**
 
-<br/>
-
 ## Author:
 
 - **Sankalp Raj** - ,
-
-<br/>
 
 ## Available Scripts:
 
@@ -46,5 +36,3 @@ State management using Context API.
 #### `npm run build`
 
 #### `npm run eject`
-
-<br/>
